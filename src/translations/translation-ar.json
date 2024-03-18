@@ -1,0 +1,22 @@
+{
+    "citizensPage": {
+        "name": "اسم",
+        "age": "عمر",
+        "city": "مدينة ",
+        "addCitizen": "إضافة مواطن",
+        "citizenDetails": "تفاصيل المواطن",
+        "title": "مواطنون",
+        "desc": "مرحبًا بكم في صفحة المواطنين",
+        "connectToWallet":"يرجى الاتصال بـ MetaMask.",
+        "note":"ملاحظة"
+
+    },
+    "addCitizen":{
+        "enterYourNote":"يرجى إدخال ملاحظتك",
+        "enterYourCity":"يرجى إدخال اسم المدينة الخاصة بك",
+        "ageValidation":"يجب أن يكون العمر أقل من 150 وأكبر من 18",
+        "nameValidation":"يرجى إدخال اسمك",
+        "save":"حفظ",
+        "cancel":"إلغاء"
+    }
+}

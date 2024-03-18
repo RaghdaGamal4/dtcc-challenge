@@ -1,0 +1,22 @@
+{
+    "citizensPage": {
+        "name": "Name",
+        "age": "Age",
+        "city": "City ",
+        "addCitizen": "Add Citizen",
+        "citizenDetails": "Citizen Details",
+        "title": "Citizens",
+        "desc": "Welcome to Citizens Page",
+        "connectToWallet":"Please connect to MetaMask.",
+        "note":"Note"
+
+    },
+    "addCitizen":{
+        "enterYourNote":"Please enter your Note",
+        "enterYourCity":"Please enter your City",
+        "ageValidation":"The age should be less than 150 and greater than 18",
+        "nameValidation":"Please enter your name",
+        "save":"Save",
+        "cancel":"Cancel"
+    }
+}
