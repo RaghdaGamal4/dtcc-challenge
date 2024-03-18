@@ -1,5 +1,5 @@
 import { useAccount } from "wagmi";
-import CitizenListPage from "../RepositoriesListPage/CitizenListPage";
+import CitizenListPage from "../CitizenListPage/CitizenListPage";
 import NoConnection from "@/shared/components/NoConnection/NoConnection";
 
 function HomePage() {
